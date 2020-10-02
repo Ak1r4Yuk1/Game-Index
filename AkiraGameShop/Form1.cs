@@ -15,7 +15,7 @@ namespace AkiraGameShop
             InitializeComponent();
             
             var client = new RestClient("https://steamunlocked.net");
-            var request = new RestRequest("/");
+            var request = new RestRequest("/all-games/");
             var response = client.Get(request);
             var sourcePage = response.Content;
 
