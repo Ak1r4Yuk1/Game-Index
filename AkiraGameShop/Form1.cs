@@ -24,8 +24,7 @@ namespace AkiraGameShop
             GameExtractor.Extract(sourcePage, out titles);
 
             foreach (var title in titles)
-                if (!listBox1.Items.Contains(title))
-                    listBox1.Items.Add(title);
+                listBox1.Items.Add(title);
         }
         
 
@@ -67,5 +66,7 @@ namespace AkiraGameShop
         {
             this.Close();
         }
+
+
     }
 }

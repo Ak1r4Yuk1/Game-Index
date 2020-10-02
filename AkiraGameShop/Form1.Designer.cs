@@ -108,6 +108,7 @@ namespace AkiraGameShop
             this.Controls.Add(this.btn_search);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.listBox1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Name = "Form1";
             this.Text = "Games Library";
             this.ResumeLayout(false);
@@ -117,12 +118,12 @@ namespace AkiraGameShop
 
         #endregion
 
-        private System.Windows.Forms.ListBox listBox1;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.Button btn_search;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Button button1;
+        public System.Windows.Forms.ListBox listBox1;
+        public System.Windows.Forms.TextBox textBox1;
+        public System.Windows.Forms.Button btn_search;
+        public System.Windows.Forms.Label label1;
+        public System.Windows.Forms.Label label2;
+        public System.Windows.Forms.Button button1;
     }
 }
 
