@@ -9,6 +9,6 @@
 ##      DEVELOPED BY Antonio & Ak1r4 Yuk1      ##
 ##                                             ##
 #################################################
-#![Alt text](/Screenshot (99).png?raw=true "Optional Title")
-#![Alt text](/Screenshot (100).png?raw=true "Optional Title")
-#![Alt text](/Screenshot (101).png?raw=true "Optional Title")
+![Alt text](https://github.com/Akira96kill/Game-Index/blob/main/Screenshot%20(99).png?raw=true "Optional Title")
+![Alt text](https://github.com/Akira96kill/Game-Index/blob/main/Screenshot%20(100).png?raw=true "Optional Title")
+![Alt text](https://github.com/Akira96kill/Game-Index/blob/main/Screenshot%20(101).png?raw=true "Optional Title")
