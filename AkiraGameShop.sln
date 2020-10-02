@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkiraGameShop", "AkiraGameShop\AkiraGameShop.csproj", "{F9585431-D53E-4CF5-93DC-106F40320C9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9585431-D53E-4CF5-93DC-106F40320C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9585431-D53E-4CF5-93DC-106F40320C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9585431-D53E-4CF5-93DC-106F40320C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9585431-D53E-4CF5-93DC-106F40320C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C7768AD-7C6C-43E8-BCE9-9917DD34CC89}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_AkiraGameShop.-563083157.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="AkiraGameShop" t="IncludeRecursive">
+        <e p="AkiraGameShop.csproj" t="IncludeRecursive" />
+        <e p="App.config" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="Form2.Designer.cs" t="Include" />
+        <e p="Form2.cs" t="Include" />
+        <e p="Form2.resx" t="Include" />
+        <e p="GamesScraper" t="Include">
+          <e p="GameExtractor.cs" t="Include" />
+          <e p="GetGameInfo.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+      </e>
+      <e p="AkiraGameShop.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

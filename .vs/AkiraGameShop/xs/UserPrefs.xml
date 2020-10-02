@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{F9585431-D53E-4CF5-93DC-106F40320C9A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AkiraGameShop/GameExtractor.cs">
+    <Files>
+      <File FileName="AkiraGameShop/Form1.cs" Line="38" Column="36" />
+      <File FileName="AkiraGameShop/GameExtractor.cs" Line="46" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AkiraGameShop" expanded="True">
+            <Node name="AkiraGameShop" expanded="True">
+              <Node name="Form1.cs" expanded="True" />
+              <Node name="GameExtractor.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AkiraGameShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/michele/Desktop/AkiraGameShop/AkiraGameShop/GameExtractor.cs" relfile="AkiraGameShop/GameExtractor.cs" line="20" column="21" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
