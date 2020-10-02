@@ -124,8 +124,17 @@ class='css-1aq06d4-MarkdownHeading__heading'>(.*?)</p>").Groups[1].Value;
 
             return description;
         }
+        public static string GetDownloadLink(string link)
+        {
+            var client = new RestClient(link);
+            var request = new RestRequest();
 
-        private static string GetOriginalTitle(string gameTitle)
+            var sourcePage = client.Get(request).Content;
+            return Regex.Match(sourcePage, "class=\"btn-download\" href=\"(.*?)\" target=\"_blank\" rel=\"noopener\">").Groups[1].Value;
+            
+        }
+
+        public static string GetOriginalTitle(string gameTitle)
         {
             return gameTitle.Replace(" ", "-").ToLower();
         }

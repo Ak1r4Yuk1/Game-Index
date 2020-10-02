@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text.RegularExpressions;
 
 namespace AkiraGameShop
@@ -66,7 +67,7 @@ namespace AkiraGameShop
                         list.Add(match.Groups[1].Value);
                 }
 
-            return list;
+            return list.Distinct().ToList();
         }
 
         public static string FindLink(string title)
