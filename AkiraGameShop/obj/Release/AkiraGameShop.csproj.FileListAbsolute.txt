@@ -34,3 +34,21 @@ C:\Users\alexa\Desktop\AkiraGameShop-Mio\AkiraGameShop\obj\Release\AkiraGameShop
 C:\Users\alexa\Desktop\AkiraGameShop-Mio\AkiraGameShop\obj\Release\AkiraGameShop.csproj.CopyComplete
 C:\Users\alexa\Desktop\AkiraGameShop-Mio\AkiraGameShop\obj\Release\AkiraGameShop.exe
 C:\Users\alexa\Desktop\AkiraGameShop-Mio\AkiraGameShop\obj\Release\AkiraGameShop.pdb
+C:\Users\alexa\Desktop\app windows\AkiraGameShop\AkiraGameShop\bin\Release\AkiraGameShop.exe.config
+C:\Users\alexa\Desktop\app windows\AkiraGameShop\AkiraGameShop\bin\Release\AkiraGameShop.exe
+C:\Users\alexa\Desktop\app windows\AkiraGameShop\AkiraGameShop\bin\Release\AkiraGameShop.pdb
+C:\Users\alexa\Desktop\app windows\AkiraGameShop\AkiraGameShop\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\alexa\Desktop\app windows\AkiraGameShop\AkiraGameShop\bin\Release\RestSharp.dll
+C:\Users\alexa\Desktop\app windows\AkiraGameShop\AkiraGameShop\bin\Release\System.IO.Packaging.dll
+C:\Users\alexa\Desktop\app windows\AkiraGameShop\AkiraGameShop\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\alexa\Desktop\app windows\AkiraGameShop\AkiraGameShop\bin\Release\RestSharp.xml
+C:\Users\alexa\Desktop\app windows\AkiraGameShop\AkiraGameShop\bin\Release\System.IO.Packaging.xml
+C:\Users\alexa\Desktop\app windows\AkiraGameShop\AkiraGameShop\obj\Release\AkiraGameShop.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\app windows\AkiraGameShop\AkiraGameShop\obj\Release\AkiraGameShop.Form1.resources
+C:\Users\alexa\Desktop\app windows\AkiraGameShop\AkiraGameShop\obj\Release\AkiraGameShop.Form2.resources
+C:\Users\alexa\Desktop\app windows\AkiraGameShop\AkiraGameShop\obj\Release\AkiraGameShop.Properties.Resources.resources
+C:\Users\alexa\Desktop\app windows\AkiraGameShop\AkiraGameShop\obj\Release\AkiraGameShop.csproj.GenerateResource.cache
+C:\Users\alexa\Desktop\app windows\AkiraGameShop\AkiraGameShop\obj\Release\AkiraGameShop.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\app windows\AkiraGameShop\AkiraGameShop\obj\Release\AkiraGameShop.csproj.CopyComplete
+C:\Users\alexa\Desktop\app windows\AkiraGameShop\AkiraGameShop\obj\Release\AkiraGameShop.exe
+C:\Users\alexa\Desktop\app windows\AkiraGameShop\AkiraGameShop\obj\Release\AkiraGameShop.pdb
