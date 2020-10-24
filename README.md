@@ -10,7 +10,7 @@
 ##                                             ##
 #################################################
 
-# Install Universal Bypass extension on Google Chrome for make Program works
+# IMPORTANT: Install Universal Bypass extension on Google Chrome for make Program works
 # >> https://universal-bypass.org
 
 ![Screenshot](https://github.com/Akira96kill/Game-Index/blob/main/Screenshot%20(99).png?raw=true "Optional Title")
