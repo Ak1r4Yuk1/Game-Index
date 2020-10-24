@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Drawing;
 using System.IO;
 using System.Windows.Forms;
@@ -67,6 +68,9 @@ namespace AkiraGameShop
             this.Close();
         }
 
-
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Process.Start("chrome.exe", "https://universal-bypass.org");
+        }
     }
 }

@@ -27,7 +27,7 @@ namespace AkiraGameShop
              string link = GameExtractor.FindLink(title).ToString();
         
              var dwn = GetGameInfo.GetDownloadLink(link);
-             dwn = dwn.Replace("https://linksunlocked.com/?token=", "https://www.uploadhaven.com/download/");
+             //dwn = dwn.Replace("https://linksunlocked.com/?token=", "https://www.uploadhaven.com/download/");
              Process.Start("chrome.exe", $"{dwn}");
         }
     }
