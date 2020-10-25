@@ -1,7 +1,7 @@
 # IMPORTANT: Install Universal Bypass extension on Google Chrome for make Program works
 # >> https://universal-bypass.org
 #################################################
-##               Game-Index                    ##
+##               How to open:                  ##
 ##                                             ##
 ##   Just go in AkiraGameShop/bin/Release/     ##
 ##        and start AkiraGameShop.exe          ##
