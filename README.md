@@ -1,6 +1,7 @@
-# IMPORTANT: Install Universal Bypass extension on Google Chrome for make Program works
-# >> https://universal-bypass.org
-#################################################
+##################################################################################################
+## IMPORTANT: Install Universal Bypass extension on Google Chrome for make Program works         ##
+## >> https://universal-bypass.org                                                               ##
+##################################################################################################
 ##               How to open:                  ##
 ##                                             ##
 ##   Just go in AkiraGameShop/bin/Release/     ##
